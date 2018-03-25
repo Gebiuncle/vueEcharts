@@ -8,3 +8,6 @@
 1.安装依赖 cnpm install 
 2.运行生产环境 cnpm run dev 
 3.在浏览器地址栏输入地址即可 http://localhost:8080
+
+项目截图：
+![Alt text](https://github.com/Gebiuncle/vueEcharts/tree/master/screenShots/1.png)
