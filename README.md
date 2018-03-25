@@ -10,4 +10,4 @@
 3.在浏览器地址栏输入地址即可 http://localhost:8080
 
 项目截图：
-![Alt text](https://github.com/Gebiuncle/vueEcharts/tree/master/screenShots/1.png)
+![image](https://github.com/Gebiuncle/vueEcharts/blob/master/screenShots/1.png)
